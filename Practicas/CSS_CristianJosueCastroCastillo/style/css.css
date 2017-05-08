@@ -1,0 +1,21 @@
+.menu{
+	padding:0
+}
+.menu li{
+	display: inline;
+}
+.menu li a{
+	font-family:verdana;
+	font-size:12px;
+	text-decoration:none;
+	float:center-right;
+	padding:12;
+	background-color:#01DFD7;
+	color:fff;
+}
+.menu li a:hover{
+	background-color:#F2851E;
+	margin-top:-5px;
+	padding-bottom:15px;
+	font-weight:bold;
+}
